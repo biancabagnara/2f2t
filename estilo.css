@@ -1,1 +1,17 @@
-
+* {
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    width: 100;
+    height: 150px;
+    background: rgb(192, 209, 255);
+}
+.conteudo {
+    width: 100%;
+}
+.rosape {
+    width: 100%;
+    text-align: center;
+    
+}
